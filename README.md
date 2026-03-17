@@ -61,6 +61,7 @@ int main() {
 
 
 ## Output:
+<img width="1617" height="901" alt="Screenshot 2026-03-13 134255" src="https://github.com/user-attachments/assets/61ca47c1-c009-4cd6-9c79-8f32b5214561" />
 
 
 ## Result:
